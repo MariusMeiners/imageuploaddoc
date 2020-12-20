@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.previewBox {
+  width: 500px;
+  height: 700px;
+}
+
+.previewBox img {
+  width: 100%;
+}
